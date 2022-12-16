@@ -1,1 +1,1 @@
-# Full Stack MERN Project!
+# MERN Stack iMessage Clone!
